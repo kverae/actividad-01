@@ -4,3 +4,8 @@ const port = 8000;
 app.listen(port, () => {
   console.log('Listening on port ' + port);
 });
+
+class A {
+    foo;
+    bar;
+}
