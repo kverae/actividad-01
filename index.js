@@ -8,6 +8,7 @@ app.listen(port, () => {
 class A {
     foo;
     bar;
+    lorem;
 }
 
 class B {
