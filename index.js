@@ -9,3 +9,10 @@ class A {
     foo;
     bar;
 }
+
+class B {
+    
+}
+class C {
+    
+}
